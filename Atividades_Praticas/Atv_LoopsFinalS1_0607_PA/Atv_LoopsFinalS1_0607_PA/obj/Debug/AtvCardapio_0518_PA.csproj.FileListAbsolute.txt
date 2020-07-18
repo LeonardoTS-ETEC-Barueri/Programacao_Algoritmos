@@ -1,0 +1,21 @@
+C:\Users\TAKA\source\repos\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.exe.config
+C:\Users\TAKA\source\repos\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.exe
+C:\Users\TAKA\source\repos\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.pdb
+C:\Users\TAKA\source\repos\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.csprojAssemblyReference.cache
+C:\Users\TAKA\source\repos\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.csproj.CoreCompileInputs.cache
+C:\Users\TAKA\source\repos\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.exe
+C:\Users\TAKA\source\repos\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.pdb
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\05_18_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.exe.config
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\05_18_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.exe
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\05_18_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.pdb
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\05_18_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.csprojAssemblyReference.cache
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\05_18_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.csproj.CoreCompileInputs.cache
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\05_18_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.exe
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\05_18_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.pdb
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.exe.config
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.exe
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\bin\Debug\AtvCardapio_0518_PA.pdb
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.csprojAssemblyReference.cache
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.csproj.CoreCompileInputs.cache
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.exe
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\AtvCardapio_0518_PA\AtvCardapio_0518_PA\obj\Debug\AtvCardapio_0518_PA.pdb

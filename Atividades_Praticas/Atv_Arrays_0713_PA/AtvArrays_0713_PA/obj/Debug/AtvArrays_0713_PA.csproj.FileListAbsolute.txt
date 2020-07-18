@@ -1,0 +1,14 @@
+C:\Users\TAKA\source\repos\AtvArrays_0713_PA\AtvArrays_0713_PA\bin\Debug\AtvArrays_0713_PA.exe.config
+C:\Users\TAKA\source\repos\AtvArrays_0713_PA\AtvArrays_0713_PA\bin\Debug\AtvArrays_0713_PA.exe
+C:\Users\TAKA\source\repos\AtvArrays_0713_PA\AtvArrays_0713_PA\bin\Debug\AtvArrays_0713_PA.pdb
+C:\Users\TAKA\source\repos\AtvArrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.csprojAssemblyReference.cache
+C:\Users\TAKA\source\repos\AtvArrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.csproj.CoreCompileInputs.cache
+C:\Users\TAKA\source\repos\AtvArrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.exe
+C:\Users\TAKA\source\repos\AtvArrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.pdb
+C:\Users\TAKA\Documents\ETEC\TPGIT\Programacao_Algoritmos\Atividades_Praticas\Atv_Arrays_0713_PA\AtvArrays_0713_PA\bin\Debug\AtvArrays_0713_PA.exe.config
+C:\Users\TAKA\Documents\ETEC\TPGIT\Programacao_Algoritmos\Atividades_Praticas\Atv_Arrays_0713_PA\AtvArrays_0713_PA\bin\Debug\AtvArrays_0713_PA.exe
+C:\Users\TAKA\Documents\ETEC\TPGIT\Programacao_Algoritmos\Atividades_Praticas\Atv_Arrays_0713_PA\AtvArrays_0713_PA\bin\Debug\AtvArrays_0713_PA.pdb
+C:\Users\TAKA\Documents\ETEC\TPGIT\Programacao_Algoritmos\Atividades_Praticas\Atv_Arrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.csprojAssemblyReference.cache
+C:\Users\TAKA\Documents\ETEC\TPGIT\Programacao_Algoritmos\Atividades_Praticas\Atv_Arrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.csproj.CoreCompileInputs.cache
+C:\Users\TAKA\Documents\ETEC\TPGIT\Programacao_Algoritmos\Atividades_Praticas\Atv_Arrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.exe
+C:\Users\TAKA\Documents\ETEC\TPGIT\Programacao_Algoritmos\Atividades_Praticas\Atv_Arrays_0713_PA\AtvArrays_0713_PA\obj\Debug\AtvArrays_0713_PA.pdb

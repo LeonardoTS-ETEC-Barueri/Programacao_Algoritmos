@@ -1,0 +1,7 @@
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\Atv_LoopsFinalS1_0607_PA\Atv_LoopsFinalS1_0607_PA\bin\Debug\Atv_LoopsFinalS1_0607_PA.exe.config
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\Atv_LoopsFinalS1_0607_PA\Atv_LoopsFinalS1_0607_PA\bin\Debug\Atv_LoopsFinalS1_0607_PA.exe
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\Atv_LoopsFinalS1_0607_PA\Atv_LoopsFinalS1_0607_PA\bin\Debug\Atv_LoopsFinalS1_0607_PA.pdb
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\Atv_LoopsFinalS1_0607_PA\Atv_LoopsFinalS1_0607_PA\obj\Debug\Atv_LoopsFinalS1_0607_PA.csprojAssemblyReference.cache
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\Atv_LoopsFinalS1_0607_PA\Atv_LoopsFinalS1_0607_PA\obj\Debug\Atv_LoopsFinalS1_0607_PA.csproj.CoreCompileInputs.cache
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\Atv_LoopsFinalS1_0607_PA\Atv_LoopsFinalS1_0607_PA\obj\Debug\Atv_LoopsFinalS1_0607_PA.exe
+D:\Taka Outerheaven\[17.02.2020] ETEC - ADS\Modulo 01\Programacao Algoritmos\07_06_PA\Atv_LoopsFinalS1_0607_PA\Atv_LoopsFinalS1_0607_PA\obj\Debug\Atv_LoopsFinalS1_0607_PA.pdb
